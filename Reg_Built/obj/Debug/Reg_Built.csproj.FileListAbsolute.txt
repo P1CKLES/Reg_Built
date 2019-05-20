@@ -1,6 +1,0 @@
-C:\Users\tester\source\repos\Reg_Built\Reg_Built\bin\Debug\Reg_Built.exe
-C:\Users\tester\source\repos\Reg_Built\Reg_Built\bin\Debug\Reg_Built.pdb
-C:\Users\tester\source\repos\Reg_Built\Reg_Built\obj\Debug\Reg_Built.csprojAssemblyReference.cache
-C:\Users\tester\source\repos\Reg_Built\Reg_Built\obj\Debug\Reg_Built.csproj.CoreCompileInputs.cache
-C:\Users\tester\source\repos\Reg_Built\Reg_Built\obj\Debug\Reg_Built.exe
-C:\Users\tester\source\repos\Reg_Built\Reg_Built\obj\Debug\Reg_Built.pdb
